@@ -1,6 +1,6 @@
 # TicketTracker
 ---
-TicketTrackr is a task scheduling and ticket management application built using vanilla JavaScript, HTML, and CSS. It allows users to create, edit, prioritize, and delete tasks represented as coloured tickets. Users can easily categorize tasks using different colours and utilize advanced filtering to find tasks based on their colour.
+TicketTracker is a task scheduling and ticket management application built using vanilla JavaScript, HTML, and CSS. It allows users to create, edit, prioritize, and delete tasks represented as coloured tickets. Users can easily categorize tasks using different colours and utilize advanced filtering to find tasks based on their colour.
 
 ## Demo
 ---
